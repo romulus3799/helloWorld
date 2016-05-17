@@ -1,2 +1,2 @@
 # helloWorld
-This is my first repository.
+Hello world! I am a high school student who is very passionate about programming!
